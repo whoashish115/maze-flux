@@ -1,9 +1,8 @@
-# Maze Flux
-
 <p align="center">
   <img src="banner.png" alt="Maze Flux banner" width="100%">
 </p>
 
+<h1 align="center">🔷 Maze Flux</h1>
 <p align="center">
   <strong>A PyQt6 desktop maze editor and A* pathfinding visualizer with animated solving, random maze generation, and interactive grid controls.</strong>
 </p>
